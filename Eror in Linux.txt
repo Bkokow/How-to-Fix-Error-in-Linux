@@ -1,0 +1,10 @@
+ERROR in Linux
+
+	-Error reading lock file ./.interfaces.swp: Not enough data read. (Interface = For Setting IP)
+	
+	~How to fix?
+		>>> delete ./"filename".swp file
+			*rm ./"filename".swp
+
+	~Example
+		*rm ./.interfaces.swp
