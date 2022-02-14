@@ -1,0 +1,6 @@
+Wired Connection Ethernet tidak bisa diedit (blank)
+
+	-Solusi
+		*Edit network menggunakan nmtui
+			~Masukan perintah di Terminal 
+				>>> nmtui

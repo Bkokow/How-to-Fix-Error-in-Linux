@@ -1,0 +1,9 @@
+Ethernet belum muncul di pengaturan jaringan / Tidak terdeteksi
+	
+	-Solusi
+		*edit file
+	   		~nano /etc/NetworkManger/NetworkManager.conf
+	   	*change "managed=false" to "managed=true"
+	
+	-restart
+	  	 	~service network-manager restart
