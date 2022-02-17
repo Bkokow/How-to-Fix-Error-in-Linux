@@ -9,3 +9,4 @@ Unable to correct problems you have held broken packages (bind9)
 		*Jika muncul downgrade packages.Accept this solution pilih "y"
 
 >>Linux = Debian 10
+>>Problem = Error install bind9
