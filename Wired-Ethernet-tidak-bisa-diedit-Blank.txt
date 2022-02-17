@@ -4,3 +4,4 @@ Wired Connection Ethernet tidak bisa diedit (blank)
 		*Edit network menggunakan nmtui
 			~Masukan perintah di Terminal 
 				>>> nmtui
+>> Linux = Ubuntu

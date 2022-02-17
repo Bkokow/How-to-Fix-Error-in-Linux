@@ -7,3 +7,4 @@ Ethernet belum muncul di pengaturan jaringan / Tidak terdeteksi
 	
 	-restart
 	  	 	~service network-manager restart
+>> Linux = Ubuntu
