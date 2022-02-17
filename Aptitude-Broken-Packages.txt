@@ -1,0 +1,11 @@
+Unable to correct problems you have held broken packages (bind9)
+
+	-Solusi
+		*Install aptitude
+			~apt-get install aptitude
+		*Gunakan apptitude untuk downgrade versi
+			~aptitude install bind9
+		*Jika muncul "bind9 [Not Installed]",Accept this solution pilih "n"
+		*Jika muncul downgrade packages.Accept this solution pilih "y"
+
+>>Linux = Debian 10
